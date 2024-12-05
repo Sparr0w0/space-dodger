@@ -1,2 +1,2 @@
 # space-dodger
-Space Dodger simple game
+a little game where you dodge astroids and get happy faces
